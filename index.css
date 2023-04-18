@@ -5,8 +5,9 @@
     --dark: #111;
     --darkGrey: #474b4f;
     --lightGrey: #6b6e70;
-    --lightGreen: #5a11cf;
-    --darkGreen: #5a11cf;
+    --lightGreen: #eff28e;
+    --darkGreen: #    --lightGreen: #eff28e;
+    ;
     --transition: all 0.5s ease;
 }
 *{
@@ -560,3 +561,7 @@ blockquote span{
     font-size: 50px;
 }
 
+#map{
+    width:20vw;
+    height: 30vh;
+}
